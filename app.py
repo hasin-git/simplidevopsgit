@@ -9,3 +9,4 @@ def newapp
 createap
 testapp
 postapp
+test hook
